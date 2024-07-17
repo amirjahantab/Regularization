@@ -33,7 +33,7 @@ In practice, regularization is applied by selecting an appropriate value for the
 
 ## Learn with Jupyter Notebook
 
-To dive deeper into the implementation and impact of regularization techniques in machine learning, explore my [Jupyter Notebook on Regularization](). The notebook contains detailed explanations, visualizations, and code examples to help you understand and apply regularization methods effectively.
+To dive deeper into the implementation and impact of regularization techniques in machine learning, explore my [Jupyter Notebook on Regularization](https://github.com/amirjahantab/Regularization/blob/main/Regularization.ipynb). The notebook contains detailed explanations, visualizations, and code examples to help you understand and apply regularization methods effectively.
 
 ## Conclusion
 
